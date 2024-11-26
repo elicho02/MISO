@@ -282,7 +282,7 @@
 
 }
 
-@media screen and (min-width:800px) {
+@media screen and (min-width:734px) {
     #section1 table {
             width: 80rem;
             font-size: 1.8rem;
@@ -407,6 +407,7 @@
         justify-content: center;
     }
     #section2 .tit_wrap{
+        margin-top: 10rem;
         display: flex;
         align-items: center;
         justify-content: left;
